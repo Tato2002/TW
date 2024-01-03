@@ -29,7 +29,7 @@ body {
   border-radius: 6px;
   cursor: pointer;
   font-family: cursive;
-  background-image: url("/assets/front.png");
+  background-image: url("assets/front.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -43,7 +43,7 @@ body {
   background-repeat: no-repeat;
   background-size: contain;
   transition: 0.4 ease-in-out;
-  background-image: url("/assets/back.png");
+  background-image: url("assets/back.png");
  }
 
 
